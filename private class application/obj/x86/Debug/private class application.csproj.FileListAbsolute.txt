@@ -1,0 +1,58 @@
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\bin\Debug\private class application.exe
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\bin\Debug\private class application.pdb
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Form1.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Properties.Resources.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private class application.csproj.GenerateResource.Cache
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private class application.exe
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private class application.pdb
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private class application.csprojResolveAssemblyReference.cache
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.login.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Registration.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Registration1.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Enquiryform.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Employee_Registration.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Login1.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Student_login.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Student_Installment.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EmployeeAttendance.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Employee_Payment.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Student_Attendance.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Subject_Registration.resources
+C:\Users\Nehali\Desktop\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Subject_Allocation.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private class application.exe
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private class application.pdb
+D:\C# practicals\private class application\private class application\bin\Debug\private class application.exe.config
+D:\C# practicals\private class application\private class application\bin\Debug\private class application.exe
+D:\C# practicals\private class application\private class application\bin\Debug\private class application.pdb
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Employee_Payment.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Employee_Registration.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EmployeeAttendance.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Enquiryform.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Form1.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.login.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Login1.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Properties.Resources.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Registration.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Student_Attendance.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Student_Installment.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Student_login.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Subject_Allocation.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Subject_Registration.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private class application.csproj.GenerateResource.Cache
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.frmshow.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.StudentRegistrationinfo.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EnquiryFormDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EmployeeAttendanceDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.StudentAttendanceDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.StudentInstallmentDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.SubjectRegistrationDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.SubjectAllocationDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EmployeePaymentDisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.StudentRegistrationUpdate.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EmployeeRegistrationdisplay.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.EmployeeRegistrationUpdate.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.NewAccount.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Forgotpassword.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private_class_application.Subjectallocationupdate.resources
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private class application.csprojAssemblyReference.cache
+D:\C# practicals\private class application\private class application\obj\x86\Debug\private class application.csproj.CoreCompileInputs.cache
